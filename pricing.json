@@ -1,0 +1,13 @@
+{
+  "repo": "kling3.0turbo-kling-3.0-turbo-api",
+  "model": "kling-3.0-turbo",
+  "display": "Kling 3.0 Turbo",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "720P": 0.1144,
+    "1080P": 0.1432
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
