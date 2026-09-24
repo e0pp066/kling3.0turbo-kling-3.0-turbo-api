@@ -2,7 +2,7 @@
 
 > **720P $0.1144; 1080P $0.1432** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-3338dd)** · **[Get an API key](https://go.apimart.ai/k-4d686f)**
 
 Everything here refers to **kling-3.0-turbo** — also written **kling3.0turbo** or **kling 3.0 turbo**.
 
